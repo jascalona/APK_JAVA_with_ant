@@ -14,7 +14,7 @@ public class PhoneBook {
      */
     public static void main(String[] args) {
         
-        interface_i inter_i =new interface_i();
+        Interface_I inter_i =new Interface_I();
         inter_i.setVisible(true);
         
     }
